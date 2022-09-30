@@ -1,0 +1,23 @@
+.navbar{
+    background-color: #000 !important;
+    display: flex;
+    justify-content: center;
+}
+.navbar img{
+    max-height: 80px;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.card-text{
+    margin: 0 !important;
+}
+.card-text span{
+    color: #198754;
+}
+
+.index_table{
+    margin-bottom: 5rem !important;
+}
